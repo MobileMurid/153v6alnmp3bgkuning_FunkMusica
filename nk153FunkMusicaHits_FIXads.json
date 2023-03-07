@@ -1,0 +1,1761 @@
+﻿{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-8650486380141113/8532056513",
+      "main_ads_intertitial":"ca-app-pub-8650486380141113/4752593609",
+      "main_ads_natives":"ca-app-pub-8650486380141113/8308695233",
+      "main_ads_rewards":"ca-app-pub-8650486380141113/7187185251",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-8650486380141113/8914096241",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Data": 
+[
+    {
+        "id": "1",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Toc Toc Quem É É O Lan Que Ta Chegando",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/1.%20Toc%20Toc%20Quem.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "2",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Aquecimento Do Bum Bum",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/2.%20Aquecimento%20Do%20Bum.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "3",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Aprendeste 2",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/3.%20Aprendeste%202.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "4",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Provérbio Chinês Comendo Pta",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/4.%20Prov%C3%A9rbio%20Chin%C3%AAs%20Comendo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "5",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Meteorito",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/5.%20Meteorito.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "6",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Polpa Da Bunda",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/6.%20Polpa%20Da%20Bunda.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "7",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vai Vai Fofoqueira Ta Falando Mal De Mim",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/7.%20Vai%20Vai%20Fofoqueira.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "8",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Chill Bill Versão Funk Carioca Remix",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/8.%20Chill%20Bill%20Vers%C3%A3o.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "9",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Sou O Mestre Dos Magos Remix Funk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/9.%20Eu%20Sou%20O.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "10",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Te Catucar Profundamente",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/10.%20Vou%20Te%20Catucar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "11",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Te Levar Pro Beco Do Beco Você Não Escapa Challenge",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/11.%20Vou%20Te%20Levar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "12",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Calma Respira Relaxa Novinha Antes De Eu Empurrar",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/12.%20Calma%20Respira%20Relaxa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "13",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Kika De Uma Vez Faz O Que A Louca Da Tua Amiga Nunca Fez",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/13.%20Kika%20De%20Uma.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "14",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Só Tapão Nervoso 2 Brega",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/14.%20S%C3%B3%20Tap%C3%A3o%20Nervoso.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "15",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Taquei Na Tchuca Maluca Foi Bem Gostosinho Ela Cavalgou Legal",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/15.%20Taquei%20Na%20Tchuca.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "16",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vai Querer Me Dar Mas Vai Ser Tarde Não Vou Te Comer",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/16.%20Vai%20Querer%20Me.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "17",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Trava Na Pose Chama No Zoom Da Um Close",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/17.%20Trava%20Na%20Pose.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "18",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Não Nasci Pra Namorar Vou Te Comer E Te Abandonar",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/18.%20Eu%20N%C3%A3o%20Nasci.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "19",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu To Te Olhando Vai Malvada To Vendo Raba Descer",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/19.%20Eu%20To%20Te.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "20",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Piranha Não Muda Acreditou Que Ela Mudou Emocionado Emocionou",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/20.%20Piranha%20N%C3%A3o%20Muda.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "21",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Meno K E Mc Kf Ta Bom Demais Assim Que Tem Que Ser Dj Br",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/21.%20Mc%20Meno%20K.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "22",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Bye Bye Partiu Revoada Não Me Acompanha Que Eu Nao Sou Novela",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/22.%20Bye%20Bye%20Partiu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "23",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Catucadinha Vai Novinha Vai",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/23.%20%C3%89%20Catucadinha%20Vai.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "24",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "To Vendo Raba Descer To Vendo Raba Subir",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/24.%20To%20Vendo%20Raba.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "25",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Vou Machucar So Um Pouquinho Black E Lança Na Boca",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/25.%20Eu%20Vou%20Machucar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "26",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vai Sentar Pro Pai Por Cima Tu Ta Demais Tchururu",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/26.%20Vai%20Sentar%20Pro.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "27",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ele É Novinho E Já Tem Pirocão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/27.%20Ele%20%C3%89%20Novinho.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "28",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Para Trava Então Joga O Cabelo Vs Da Aquela Cavalgada Vs Chama A Ambulancia",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/28.%20Para%20Trava%20Ent%C3%A3o.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "29",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ai Caralho Ele É Foda O Dj Do Baile Sempre Tem Uma Pepeka Nova",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/29.%20Ai%20Caralho%20Ele.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "30",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Elas Vão Sentando Vão Até Embaixo Resenha Do Be Kevin O Chris",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/30.%20Elas%20V%C3%A3o%20Sentando.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "31",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Senta No Bugalu Médio Paredão 4 Escravos Do Pó",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/31.%20Senta%20No%20Bugalu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "32",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Bolado De Glock Com A Cintura Quadrada Ela Senta No Trem Bala",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/32.%20Bolado%20De%20Glock.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "33",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Que Bonita A Sua Roupa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/33.%20Que%20Bonita%20A.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "34",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Aquecimento Am I Wrong Versão Funk Rj Piquezin Dos Cria",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/34.%20Aquecimento%20Am%20I.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "35",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vai Rebola Trava Vs To Doidinho Pra Ver O Seu Piercing No Peito Remix",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/35.%20Vai%20Rebola%20Trava.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "36",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tras A Maquininha Que Hoje Eu Passo O Xerecard",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/36.%20Tras%20A%20Maquininha.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "37",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Sarra Nela Com O Fuzil Na Bandolera",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/37.%20Sarra%20Nela%20Com.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "38",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Joga O Cabelo Pro Cara Que Tu Ta Na Intensão Cai Devagarinho Ate Embaixo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/38.%20Joga%20O%20Cabelo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "39",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Te Pego De Frente Toma Sequencia De Vapo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/39.%20Eu%20Te%20Pego.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "40",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tu Quer Mandar Em Mulher Solta Livre Leve E Louca Ser Solteiro É Menos Arriscado",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/40.%20Tu%20Quer%20Mandar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "41",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Gonzaga Deu Fuga Com Uma Loira Cabulosa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/41.%20Gonzaga%20Deu%20Fuga.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "42",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Deu Meia Noite Eu Sumi Geral Soltando Fogos",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/42.%20Deu%20Meia%20Noite.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "43",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "As Mais Tocadas No Baile Funk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/43.%20As%20Mais%20Tocadas.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "44",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Trava Na Pose Chama No Zoom",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/44.%20Trava%20Na%20Pose.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "45",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Não Me Quis Agora Tchu Tchu Vem Sentando",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/45.%20N%C3%A3o%20Me%20Quis.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "46",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Bom Dia A Tropa Do Serrão Te Chamou Pra Piscina",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/46.%20Bom%20Dia%20A.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "47",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Surfando Nos Mandela Tacando Pau Nas Maldita",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/47.%20Surfando%20Nos%20Mandela.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "48",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mama Ai Oque Que Tem Vai Me Dizer",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/48.%20Mama%20Ai%20Oque.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "49",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Nos Empurra Na Tchuca Puxa Na Nuca Então Toma Catucadão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/49.%20Nos%20Empurra%20Na.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "50",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Turbulência Todo Mundo Solteiro",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/50.%20Turbul%C3%AAncia%20Todo%20Mundo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "51",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Vou Te Machucar Eu Vou Te Maltratar",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/51.%20Eu%20Vou%20Te.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "52",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Passarinho Que Som É Esse Funk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/52.%20Passarinho%20Que%20Som.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "53",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Taca A Perereca Os Menor Te Atravessa Beat Da Felicidade Nego Da Marcone Meno Dani Dj Jeeh Fdc",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/53.%20Taca%20A%20Perereca.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "54",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Like Like Pique Pique Piquizin",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/54.%20Like%20Like%20Pique.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "55",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Balança Balança A Glock Vs Bota Pra Cantar Papum",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/55.%20Balan%C3%A7a%20Balan%C3%A7a%20A.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "56",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vem No Beat Do Para E Pensa Vai Tomando Foguenta",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/56.%20Vem%20No%20Beat.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "57",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Senta Por Cima Do Pai Chama Meu Vulgo Malvadão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/57.%20Senta%20Por%20Cima.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "58",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "A Tua Cara Não Nega Ai Morena Na Boa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/58.%20A%20Tua%20Cara.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "59",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Onda Do Berimbau Status",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/59.%20Onda%20Do%20Berimbau.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "60",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Alô Mozão Tudo Bem Vou Tipapá",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/60.%20Al%C3%B4%20Moz%C3%A3o%20Tudo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "61",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ta Brotando No Plantão Pra Tira Foto Com Revolver",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/61.%20Ta%20Brotando%20No.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "62",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Chamo Teu Vulgo Malvadão Movimenta",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/62.%20Chamo%20Teu%20Vulgo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "63",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Aquecimento Loving You Is A Losing Game Funk Rj",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/63.%20Aquecimento%20Loving%20You.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "64",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ak 47 É O Porte Do Homem",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/64.%20Ak%2047%20%C3%89.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "65",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tropa Do Bx Ninguem Te Forçou Tu Veio Porque Quis",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/65.%20Tropa%20Do%20Bx.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "66",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Te Mostrar O Nenem Com Carinha De Malvadão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/66.%20Vou%20Te%20Mostrar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "67",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "De Pião Na Quebrada Fui No Jet Comum",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/67.%20De%20Pi%C3%A3o%20Na.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "68",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Te Empurrar Vou Te Bota Pra Sentar",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/68.%20Vou%20Te%20Empurrar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "69",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Calma Bb Ta Nos Melhores Amigos Vs Calma Respira Relaxa",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/69.%20Calma%20Bb%20Ta.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "70",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Pode Pode Vem Com A Peça Deixa Essa Mina Maluca",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/70.%20Pode%20Pode%20Vem.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "71",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Não Sai Pra Pegar Ninguém Não Precisa De Homem",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/71.%20Ela%20N%C3%A3o%20Sai.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "72",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mas Ela Já Fez A Pose Ta De Boa Já Ta Registrado Ela Chupando",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/72.%20Mas%20Ela%20J%C3%A1.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "73",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Para Para Tudo Apaga A Luz Apaga Tudo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/73.%20Para%20Para%20Tudo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "74",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Parando Atrás Dela E Fazendo Vuco Vuco",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/74.%20Vou%20Parando%20Atr%C3%A1s.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "75",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Elas Fala Esse É Ladrão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/75.%20Elas%20Fala%20Esse.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "76",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ai Calica Quer Dar Pros Amiguinho Da Boca",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/76.%20Ai%20Calica%20Quer.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "77",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Chifre É Uma Coisa Que Coloca Na Cabeça",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/77.%20Chifre%20%C3%89%20Uma.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "78",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Oh Pietra Joga Essa Xrc No Meu Fuzil De Luneta",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/78.%20Oh%20Pietra%20Joga.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "79",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "E Lalaue Lalaue Fim De Ano Ta Chegando",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/79.%20E%20Lalaue%20Lalaue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "80",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Pego Penso Ou Passo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/80.%20Pego%20Penso%20Ou.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "81",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "As Mais Tocadas No Baile",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/81.%20As%20Mais%20Tocadas.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "82",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Te Apresentar Minha Glock De 30 Tiro",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/82.%20Vou%20Te%20Apresentar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "83",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "A Raba É Grande E O Coração Pequeno",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/83.%20A%20Raba%20%C3%89.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "84",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Falo Chines É Sushimi É Sashimi Vem Mama Aqui",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/84.%20Eu%20Falo%20Chines.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "85",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela É Cavala Mesmo Do Peitinho E Do Bundão Vai Com Bundão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/85.%20Ela%20%C3%89%20Cavala.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "86",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Dó Ré Mi Fá O Henrique Só Lamenta Sua Amiga Vem E Senta",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/86.%20D%C3%B3%20R%C3%A9%20Mi.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "87",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Quer Mandar Em Mim Ela Senta Pra Bandido",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/87.%20Quer%20Mandar%20Em.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "88",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vou Encher De Leite E Vou Manda Pros Alemão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/88.%20Vou%20Encher%20De.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "89",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Rapaziadinha Do Tik Tok Hein",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/89.%20Rapaziadinha%20Do%20Tik.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "90",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Hoje Eu Vou Acabar Contigo X É Vapo Vapo To Passando Mal Chama A Ambulância",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/90.%20Hoje%20Eu%20Vou.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "91",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Uma Cavala Mesmo Matheus Silva Que Falo O Tamanho Desse Popo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/91.%20Uma%20Cavala%20Mesmo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "92",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Automotivo Dos Mandela 20 Pras Digital Influencer",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/92.%20Automotivo%20Dos%20Mandela.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "93",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Preta Do Cabelo Cacheado De Lado De Quatro",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/93.%20Preta%20Do%20Cabelo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "94",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Hoje Hoje So Vai Da Ela Joga Joga Joga",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/94.%20Hoje%20Hoje%20So.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "95",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vem Vem Vem Sentando Vem",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/95.%20Vem%20Vem%20Vem.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "96",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Minha Ex É Foda Minha Ex Ta Me Querendo Mão Na Cara Porrada",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/96.%20Minha%20Ex%20%C3%89.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "97",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tá Com Saudade Do Pretin Querendo Tbt",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/97.%20T%C3%A1%20Com%20Saudade.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "98",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Boto A Pistola Pro Alto Ela Joga O Bundão No Chão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/98.%20Eu%20Boto%20A.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "99",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Balança O Ombrinho Trava Para E Joga O Cabelo Calma Respira",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/99.%20Balan%C3%A7a%20O%20Ombrinho.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "100",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Meia Noite Eu Sumi O Coro Ta Comendo Geral Soltando Fogos",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/100.%20Meia%20Noite%20Eu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "101",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "E Ela Sobe A Favela Joga A Bunda Pros Menor Que Ta De Peça",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/101.%20E%20Ela%20Sobe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "102",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Fica De Fica De Fica 4 Joga Pro Alto",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/102.%20Fica%20De%20Fica.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "103",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "As Mais Tocadas No Baile Funk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/103.%20As%20Mais%20Tocadas.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "104",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vem Pra Morcegada Bebê Toma Do Meu Gin",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/104.%20Vem%20Pra%20Morcegada.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "105",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Apaga Luz Apaga Tudo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/105.%20Apaga%20Luz%20Apaga.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "106",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "To Bancando Então Vou Comer",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/106.%20To%20Bancando%20Ent%C3%A3o.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "107",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Batatinha Frita 123 Round 6 Funk Desce Com A Bunda",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/81.-as-mais-tocadas/107.%20Batatinha%20Frita%20123.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "108",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Rn Do Capão Mc Nathan Zk E Mc Willian Infração",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/108.%20McRnDo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "109",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Rn Do Capão Mc Menor Zl E Mc Kautry Subiu O Salve Clipe Oficial Soneca E Dj Guh Mix",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/109.%20McRnDo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "110",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Beat Do Vitas Agressivo Dj Menezes Dj Mb Original E Mc W1",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/110.%20BeatDoVitas.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "111",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Oh A Cara Da Malandra Que Acabou Com A Minha Vida Edy Lemond Veiga No Beat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/111.%20OhACara.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "112",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "O Mundo É Putaria Mc Gedai E Dj Jeeh Fdc",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/112.%20OMundo%C3%89.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "113",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Top Paredão 2022 As Mais Tocadas De 2022 Os Melhores Brega Funk Do Momento Mk No Beat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/113.%20TopPared%C3%A3o2022.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "114",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Sentei Com Amor Vivendo A Put4Ria Mc Vittin Pv Mc Nina Dj Sagaz E Dj Fury",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/114.%20SenteiComAmor.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "115",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Não Percebi Me Apaixonei Na Sua Botada Mc Reino Mc Babu Mc Thaisinha E Mc Pr Dj Malicia",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/115.%20N%C3%A3oPercebiMe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "116",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Atenção Cadê Meu Beck Cade O Plug Mc Pikachu E Prodbybrunin",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/116.%20Aten%C3%A7%C3%A3oCad%C3%AAMeu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "117",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Se Tu Não Quer Passa A Vez Mc Delux Se Você Não Quer Passa A Vez Status Dj Guih Da Zo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/117.%20SeTuN%C3%A3o.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "118",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Magrão Speaks To Me Wagneriz Dj Thiago Mendes E Dj Júlia Zambonin",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/118.%20Magr%C3%A3oSpeaksTo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "119",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Dose De 43 Dj Guh Mix E Dj Dubom Mc João Mc Igor Almeida Mc Cb Mc Gh",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/119.%20DoseDe43.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "120",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Com A Xerequinha Eu Vou Sentando Mc Pipokinha Mc Carol E Dj Pizza",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/120.%20ComAXerequinha.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "121",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Sou Máximo Respeito Montagem Iluminati Phelippe Amorim Djs Mandrake Guh Mdk Game Beat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/121.%20EuSouM%C3%A1ximo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "122",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Mamou Na Rua Novinha Então Me Mama Mc Gedai E Yuri Redicopa Dj Jeeh Fdc E Dj Fury Zl",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/122.%20ElaMamouNa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "123",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Se Amarrou Na Botada Do Fazendeiro Bota Em Você Machuca Tiktok Jottapê Mc Gw E Mc Levin",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/123.%20SeAmarrouNa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "124",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ai Ai Ai Bebe Toma Ai Pode Escolher Mc Teteu Mc Delux Dj Duarte E Dj Tn Beat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/124.%20AiAiAi.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "125",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Lan Meteorito Dj Pedro Azevedo E Dj Maloka",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/125.%20McLanMeteorito.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "126",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Magrão Speaks To Me Tik Tok Wagneriz Dj Thiago Mendes E Dj Júlia Zambonin",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/126.%20Magr%C3%A3oSpeaksTo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "127",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Don Juan Mc Teteu E Mc Niack Oh Novinha Não Fica Triste Vem Sentando Por Cima De Mim",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/127.%20McDonJuan.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "128",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Funk Do Mendigo Senta Pro Desabrigado Mc Gw Dj Bruninho Pzs E Dj Mano Lost",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/128.%20FunkDoMendigo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "129",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Michael Te Amo Jackson Te Amo Vem De Moonwalk No Meu Mc Durrony Selminho Dj",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/129.%20MichaelTeAmo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "130",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Faz Horrores Com A Xrc Dela X Cala A Boca Mc Menor Mt Mc Souza",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/130.%20ElaFazHorrores.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "131",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tropa Da Parma Hoje Eu Brotei No Baile Da Paro Status Tiktok Djs Secreto E Cirilo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/131.%20TropaDaParma.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "132",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Portal Orbital No Escurin Nós F0De F0De Dj L7 Da Zn E Dj Darge Feat Giana Mello Gatto E Mc W1",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/132.%20PortalOrbitalNo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "133",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Hoje Que Eu Te Pego Na Minha Cama Vem Pelada Novinha Experiente Mc Novin Mc Kevin E Dj Alek",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/133.%20%C3%89HojeQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "134",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Lan Aprendeste 2 Dj Pedro Azevedo E Dj Maloka",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/134.%20McLanAprendeste.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "135",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Vou Machucar So Um Pouquinho Catucando Gostosinho Mc Teteu Dj F7 E Jc No Beat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/135.%20EuVouMachucar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "136",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Fuga Na Fiel Perdido Na Amante Mc Kzs E Dj Rafinha",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/136.%20%C3%89FugaNa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "137",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Só Você Vir Peladinha Vem Só De Marquinha Rebola Por Cima Mc Menor Mt E Dj Pizza",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/137.%20%C3%89S%C3%B3Voc%C3%AA.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "138",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Me Chama De Amor Me Pede Com Carinho Brega Funk Mc Izall Afonso Na Voz Dj Sony E Mc Treyce",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/138.%20MeChamaDe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "139",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Nossa Silva Tu Mudou Ficou Bonito Do Nada Pra Mostrar Que O Mundo Gira Datorre Silva Dozabri",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/139.%20NossaSilvaTu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "140",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mega Antidepressiva 2 Todo Mundo Quer Putaria Meu Bem Mc Furdunço E Mc W1 Dj Mendes E Dj Pizza",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/140.%20MegaAntidepressiva2.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "141",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Quero Ver Você Cair Dentro Tiktok Mc Fopi E Mc Gw Dj Jk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/141.%20QueroVerVoc%C3%AA.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "142",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Pula Pula Pula Pipoca Então Pula De Perna Aberta Dj Arana Mc Pipokinha Zudo Boladão E Dj Menezes",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/142.%20PulaPulaPula.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "143",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É O Bonde Da Pistola Rosa Clipe Oficial Mc Talibã E Dj Gustavo Da Vs",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/143.%20%C3%89OBonde.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "144",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Primeiro Beck Ela Me M4Mou Mc Guizinho Niazi Mc Kitinho E Silva Mc Dj Deivão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/144.%20PrimeiroBeckEla.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "145",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Beat Snap Pagofunk Música Romantica Funk Tik Tok Remix Sr Nescau",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/145.%20BeatSnapPagofunk.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "146",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Set Censurado Dj Guh Mix Mcs Nego Raro Negão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/146.%20SetCensuradoDj.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "147",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Foco Das Bebê Mc Tuto Mc Negão Original Mc Willian E Mc Nego Raro",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/147.%20FocoDasBeb%C3%AA.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "148",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Sou A Mc Pipokinha E Eu Tenho Piercing Na Xerec4 Mc Pipokinha E Dj Admeta",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/148.%20EuSouA.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "149",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "E Agora Que Eu To Sozinho Nesse Mal Caminho Speed Up Remix Mc J Mito",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/149.%20EAgoraQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "150",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Acho Que Vi Um Gatinho Eu Vi Sim Eu Vi Um Gatinho Dj Kl Do Abc Mc Bn E Mc Guto Vgs",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/150.%20EuAchoQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "151",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Sabe A Virginia Ela Engravidou Amigo Dj Olha O Ko Mc Delux Dj Abdo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/151.%20SabeAVirginia.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "152",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "2 Pra La 2 Pra Cá Toma Sarrada No Ar",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/152.%202PraLa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "153",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Dj Arana Lets Go Só Sequencia De Pir0Cada",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/153.%20DjAranaLets.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "154",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Lan Lan Musk Ppp P Pras Pi Toma Lan Cruz ",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/154.%20McLanLan.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "155",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Acho Que Vi Um Gatinho Status Tiktok Mc Bn E Mc Guto Vgs Dj Kl Do Abc",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/155.%20EuAchoQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "156",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Me Chama De Cachorrão 2 Mc Toy Funk 24Por48 Dj Alef Rodrigo E Dj Felypinho 013",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/156.%20MeChamaDe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "157",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Set Veloz Mc Neguinho Jm Mc Chagal Mc Negão Mc Gh Dj Loirin E Dj Jeeh Fdc",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/157.%20SetVelozMc.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "158",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Superei Um Golpe E Curei Meu Coração Dj Biel Rocha",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/158.%20SupereiUmGolpe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "159",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Onda Subaquática Mc Davi Cpr Mc Buraga Mc Lipivox E Yuri Redicopa Dj Vini Da Zo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/159.%20OndaSubaqu%C3%A1ticaMc.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "160",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Bora Bill Funk Meme Bora Bill Bora Filho Do Bill Música Tiktok Gl Do Limão E Italo Martins",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/160.%20BoraBillFunk.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "161",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "01 Não É 02 Entende Meu Bem Lckaiique Meno Saaint E Yuri Redicopa Dj Douglinhas",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/161.%2001N%C3%A3o%C3%89.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "162",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "As Mais Tocadas No Baile Funk 2022 2023 Top Funk ",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/162.%20AsMaisTocadas.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "163",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Novinho Do Tiktok Cabelo Descolorido Mc Bruna Alves E Dj Fb De Niterói",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/163.%20NovinhoDoTiktok.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "164",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Só Cachaça Pinga E Macho Mc Koruja E Dani Russo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/164.%20%C3%89S%C3%B3Cacha%C3%A7a.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "165",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Me Chamou De Vida Eu Vou Ter Que Cuidar Mc Pipokinha E Dj Fury",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/165.%20MeChamouDe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "166",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Gemeu Quando Eu Botei Dentro Melodia Alucinógena Mc Niack Dj Ak Br E Dj Darge",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/166.%20ElaGemeuQuando.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "167",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Lancei Essa Pras Faixa Rosa Faz A Jogadinha Pl Yuri Diogo No Beat Theus Costa E Mc Bruna Alves",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/167.%20LanceiEssaPras.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "168",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Nessa Virada Do Ano Vamos Fazer Diferente Eletro Funk Mc Laureta E Mc Lina Dj Vigaz",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/168.%20NessaViradaDo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "169",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Pensa Que Meu P É Pod Suga Meu P Nicole Mc Lckaiique Yuri Redicopa Dj Fury Zl",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/169.%20ElaPensaQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "170",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Caixa Dágua Terra Do Popaye Mc Leon Dj Cirilo De Caxias",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/170.%20CaixaD%C3%A1guaTerra.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "171",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Só Uma Botada Na Novinha Uma Botada Aqui O Prazer É Certo Tiktok Mc Gringo Dj Lg E Cabelinho",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/171.%20%C3%89S%C3%B3Uma.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "172",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Quem Mandou Se Apaixonar Pelo Amigo Dj Tu Empinou Ele Pei Mc Delux E Dj Abdo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/172.%20QuemMandouSe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "173",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Vou Socar Nessa Novinha Botar Ela Pra Mamar Vs É Só Blusão Da Ecko Mc Denny Dj Tk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/173.%20EuVouSocar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "174",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Set Turma Do Bairro Mc Menor Mr Mc Willian Mc Sartori Mc Vtr E Mc Pagote Djs Bueno E Guh Mix",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/174.%20SetTurmaDo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "175",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Bem Que Te Avisei Quem Mandou Se Apaixonar Mc Delux E Dj Abdo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/175.%20EuBemQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "176",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vamos De Marcação Não Se Esconde Vou Te Comer Tiktok Mc Alef Dj Sorriso Bxd E Ph",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/176.%20VamosDeMarca%C3%A7%C3%A3o.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "177",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mega Set Ngdp Dj Mb 7Belo Silva Mm Kitinho Meno Saaint Gedai Lil Lc Kaiique",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/177.%20MegaSetNgdp.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "178",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Set 24Por48 Clipe Oficial Mc Delux Mc Menor Mt Mc Kalzin Mc W1 Mc Meno Dani Dj Gustavo Da Vs",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/178.%20Set24Por48Clipe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "179",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mete Bala Te Amo Cheirosa Te Amo Tiktok Mc Durrony E Selminho Dj",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/179.%20MeteBalaTe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "180",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Temporal Dos Deuses Dj Jeeh Fdc Mcs Lckaiique Celo Bk Gui Da Zl E Meno Saaint",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/180.%20TemporalDosDeuses.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "181",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Pensa Em Mim No Trabalho Quero Ver Esquecer O Pretão Mc Durrony E Dj Gb Do Dick",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/181.%20ElaPensaEm.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "182",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Faz Striptease Na Minha Cama Joga Essa Rabeta Na Minha Direção Mcs Teuzin Pv E Skcot Dn Brazão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/182.%20FazStripteaseNa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "183",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Quero Que Você Os Vizinhos A Família Todo Mundo Montagem Surpreendente Mc Lan Dj Rd Da Dz7",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/183.%20QueroQueVoc%C3%AA.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "184",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "A Culpa É Tua Você Falou Pra Fulana A Fulana Falou Pra Ciclana Tiktok Mc Durrony Selminho",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/184.%20ACulpa%C3%89.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "185",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Vai Voar No Tapete Mágico Sou Tipo Gênio Realizo Seus Desejos Mc Japa E Dj Erik Jp",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/185.%20VaiVoarNo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "186",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Que Tal Um Truque De Mágica Automotivo Psicodélico Dj Phell 011",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/186.%20QueTalUm.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "187",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tô Com Uma Foda Marcada Quinta Eu Deixo De Molho E Volto Na Sexta Feira Mc Koruja",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/187.%20T%C3%B4ComUma.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "188",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Falou Que Ta Ardendo Ai Ai Que Foi Ta Doendo Chama O Coveiro Mc Delux E Dj Guih Da Zo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/188.%20ElaFalouQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "189",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "É Que Ela Tem Uma Sentadinha Safadinha Muito Diferente Dj Dyamante E Mc Gw",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/189.%20%C3%89QueEla.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "190",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Primeiro Beck Ela Me Mamou Tik Tok Mc Guizinho Niazi Mc Kitinho Silva Mc Dj Deivão",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/190.%20PrimeiroBeckEla.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "191",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Sou Amante Mesmo Problema É Do Seu Marido Ele É Casado Com Você Tiktok Dj Will Ps",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/191.%20SouAmanteMesmo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "192",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Não Fica Assim Meu Amor Tudo Tem Sua Primeira Vez Tik Tok Dj Blakes Dj C15 Da Zo E Dj Mavicc",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/192.%20N%C3%A3oFicaAssim.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "193",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Sei Cantar Em Inglês Também Megão Dos Anos 80 Mc Guizinho Niazi Dj Tchouzen E Dj Menezes",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/193.%20EuSeiCantar.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "194",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Joga Me Provoca Imagina Que Isso É Videozinho Para Tiktok Mc Roger Rodrigo Do Cn Djs Braga Vm",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/194.%20JogaMeProvoca.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "195",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ta Com Saudade De Mim Vontade Da Minha Pegada Mc Teteu Jc No Beat E Dj F7",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/195.%20TaComSaudade.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "196",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "O Teu Peito Nunca Foi Chupado Nunca Foi Mamado Mas Nasceu Caido Mc Vuk Vuk E Dj Rd Da Dz7",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/196.%20OTeuPeito.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "197",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Quem Sou Eu Toma No Pirik1T0 Dj Jeeh Fdc Mc Kitinho Mc Celo Bk E Mc Ryan Gf",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/197.%20QuemSouEu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "198",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Aí Aí Aí Calma Status Tiktok Mc Delux E Mc Vuk Vuk Dj Lemix",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/198.%20A%C3%ADA%C3%ADA%C3%AD.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "199",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ta Assim Porque Ta Boladona Terminei Com Ela Funk Tiktok Mc Durrony E Dj Selminho",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/199.%20TaAssimPorque.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "200",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mega Antidepressiva Senta Maria Vai Dj Mende E Mc Furdunço",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/200.%20MegaAntidepressivaSenta.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "201",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Eu Te Botei Você Nem Divulgou Mc Guizinho Niazi Dj Tchouzen Dj Jeeh Fdc E Dj Menezes",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/201.%20EuTeBotei.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "202",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Senta Maria Vai Mega Antidepressiva Dj Mende E Mc Furdunço",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/202.%20SentaMariaVai.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "203",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Set Amigos Chucro Mc Nathan Zk Mc Tuto Mc Dr Cb E Dj Guh Mix",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/203.%20SetAmigosChucro.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "204",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Hoje Eu Vou Te Mostrar A Verdadeira Magia Eu Vou Te Catucar Mc Guto Vgs E Mc Bn Dj Kley",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/204.%20HojeEuVou.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "205",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Montagem 3X1 Catucada Envolvente Dj Jeeh Fdc E Dj Arana E Mc Rd",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/205.%20Montagem3X1Catucada.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "206",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Não Entrega O Coração Pra Qualquer Mano Maloka Bruna Tu Ja Parou Pra Pensar Niack Dj Wzl",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/206.%20ElaN%C3%A3oEntrega.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "207",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Ela Se Apaixonou Algo Deu Errado Logo Eu O Desbloqueado Mc Delux E Mc Gw Dj Abdo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/207.%20ElaSeApaixonou.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "208",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Portal Orbital Rebolei Tirei O Dj L7 Da Zn Dj Darge Giana Mello Gatto W1",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/208.%20PortalOrbitalRebolei.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "209",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Mc Lan Polpa Da Bunda Feat Mc Kitinho Dj Maloka Dj Pedro Azevedo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/209.%20McLanPolpa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "210",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Esse Vento Forte Me Arrastou Quica Com Força Por Cima Do Meu Garoto Mc Jacaré Dj Tk",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/210.%20EsseVentoForte.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "211",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Bagunça Tudo Mc Menor Mr Mc V7 Mc Cb Mc Dkzin Mc Pg E Dj Guh",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/211.%20Bagun%C3%A7aTudoMc.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "212",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Tem Umas Que Tem Peitin Tem Umas Que Tem Bundão Mc Alef Kikito E Lc",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/212.%20TemUmasQue.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "213",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Com A Perereca Na Minha Cara Eu Já Tô Ficando Maluco Jn No Beat Mc Mr Bim",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/213.%20ComAPerereca.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "214",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Cabelinho Meu Marrento Esse É Meu Marrento Mc Jhenny Dj Denilson Do Chp Dj Davi E Dj Geh",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/214.%20CabelinhoMeuMarrento.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "215",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Aqui No Baile Do Egito O Mano Vai Te Devorar Tiktok Cabbrau Leandro E As Abusadas",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/215.%20AquiNoBaile.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "216",
+        "name_category": "200+ Funk 24por48 Musica Hits",
+        "title": "Toma Nicole Toma Sequencia De Role Mc Meno Dani Dj Jeeh Fdc Dj Douglinhas E Dj Menezes",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/162.-as-mais-tocadas/216.%20TomaNicoleToma.ogg"
+    }
+]
+
+}
